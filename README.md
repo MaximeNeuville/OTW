@@ -5,7 +5,8 @@
 This repository is a cheat sheet for Over The Wire.
 I'll update it when I go through the challenges.
 
-1. [Bandit](1-Bandit)
+<details><summary>1. [Bandit](1-Bandit)</summary>
+<p>
     - [0](1-Bandit/0.md)
     - [0-1](1-Bandit/0-1.md)
     - [1-2](1-Bandit/1-2.md)
@@ -41,3 +42,6 @@ I'll update it when I go through the challenges.
     - 31-32
     - 32-33
     - 33-34
+
+</p>
+</details>
