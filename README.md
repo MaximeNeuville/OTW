@@ -10,7 +10,7 @@ I'll update it when I go through the challenges.
     - [0-1](1-Bandit/0-1.md)
     - [1-2](1-Bandit/1-2.md)
     - [2-3](1-Bandit/2-3.md)
-    - 3-4
+    - [3-4](1-Bandit/3-4.md)
     - 4-5
     - 5-6
     - 6-7
