@@ -14,7 +14,7 @@ I'll update it when I go through the challenges.
     - [4-5](1-Bandit/4-5.md)
     - [5-6](1-Bandit/5-6.md)
     - [6-7](1-Bandit/6-7.md)
-    - 7-8
+    - [7-8](1-Bandit/7-8.md)
     - 8-9
     - 9-10
     - 10-11
