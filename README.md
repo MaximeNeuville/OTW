@@ -17,7 +17,7 @@ I'll update it when I go through the challenges.
     - [7-8](1-Bandit/7-8.md)
     - [8-9](1-Bandit/8-9.md)
     - [9-10](1-Bandit/9-10.md)
-    - 10-11
+    - [10-11](1-Bandit/10-11.md)
     - 11-12
     - 12-13
     - 13-14
